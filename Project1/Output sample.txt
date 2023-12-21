@@ -1,0 +1,75 @@
+Starting the Banking Project
+entered in my account once
+Select 
+1. Create new Account 
+2.Login
+3.Quit
+>1
+Creating new account
+Please Enter name:nahida
+Enter Account number:122101
+Enter User Name:nahi89
+Enter Password:secret
+Select 
+1. Create new Account 
+2.Login
+3.Quit
+>1
+Creating new account
+Please Enter name:jishad
+Enter Account number:129821
+Enter User Name:jishi84
+Enter Password:surprise
+Select 
+1. Create new Account 
+2.Login
+3.Quit
+>2
+login!
+Enter User Name:nahi89
+Enter Password:secret
+Login Success
+1. withdrawal
+2.deposit1
+Enter the amount:200
+Sorry! Balance Insuffient
+Select 
+1. Create new Account 
+2.Login
+3.Quit
+>2
+login!
+Enter User Name:jishi84
+Enter Password:surprise
+Login Success
+1. withdrawal
+2.deposit2
+Enter the amount:200
+Deposited successfully!Current balance: 200.0
+Select 
+1. Create new Account 
+2.Login
+3.Quit
+>2
+login!
+Enter User Name:jishi84
+Enter Password:surprise
+Login Success
+1. withdrawal
+2.deposit1
+Enter the amount:20
+Withdrawal Success.Current balance: 180.0
+Select 
+1. Create new Account 
+2.Login
+3.Quit
+>2
+login!
+Enter User Name:unknown
+Enter Password:youtellme
+Exception: Login Failured. please try again
+Select 
+1. Create new Account 
+2.Login
+3.Quit
+>3
